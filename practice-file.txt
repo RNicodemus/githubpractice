@@ -1,0 +1,10 @@
+Chatroom instructions:
+1. Add your name
+2. Add your message
+3. Let other contributors pull your message!
+
+========
+Welcome!
+========
+
+Raphael Macaraig: Hello, team! Welcome to GitHub :D
